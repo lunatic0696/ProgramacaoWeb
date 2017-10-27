@@ -2,10 +2,7 @@
 
 Nome: Paulo Roberto Ferreira Viana Filho
 
-Contatos: LABIRAS
-          Francisco Marcelino
-          Felipe Resende
-          Gildásio Filho
+Contatos: lunatictan96@gmail.com (86)999055677
 
 Habilidades:  Programador Java, Python, C++(Básico)
               Modelador 3D/Animador - Blender
