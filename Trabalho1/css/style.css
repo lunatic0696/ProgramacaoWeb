@@ -1,0 +1,43 @@
+.container{
+	border: 2px solid black;
+	margin-top: 10px;
+}
+
+header,footer{
+	font-family: Verdana;
+	padding: 20px;
+	background-color: #ddd;
+}
+
+.col-md-3{
+	text-align: center;
+	border: 2px solid black;
+	background-color: light blue;
+
+}
+
+header{
+	padding: 20px;
+	text-align: center;
+}
+
+header h1{
+	font-family: cursive;
+}
+
+header p{
+	text-align: center;
+}
+
+header,footer,main,aside{
+}
+
+.col-md-4{
+	background-color: lightblue;
+	height: 50vh;
+	overflow: auto;
+}
+
+p{
+	text-align: justify;
+}
